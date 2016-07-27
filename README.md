@@ -1,6 +1,9 @@
 # technical-links
 A collection of technical links I want to be easily find again
 
+Performance Tooling and Micro Architecture References
+------------------------------------------------------
+
 SSE: mind the gap!  
 https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/  
 Collection of useful encoding tricks for common idioms in SSE
@@ -25,3 +28,14 @@ http://www.anandtech.com/show/6355/intels-haswell-architecture/9
 
 
 http://www.anandtech.com/show/9582/intel-skylake-mobile-desktop-launch-architecture-analysis/5
+
+
+Engineering Process/Management Topics
+------------------------------
+
+Speeding Up Your Engineering Org, Part I: Beyond the Cost Center Mentality
+http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
+(Strongly recommend reading.  Some thoughts by me: http://www.philipreames.com/Blog/2014/05/11/feature-latency/)
+
+Applying the Universal Scalability Law to organisations
+http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/
