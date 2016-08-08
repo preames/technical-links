@@ -39,3 +39,9 @@ http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
 
 Applying the Universal Scalability Law to organisations
 http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/
+
+Speculative Optimization
+-------------------------
+
+Thin Guards: A Simple and Effective Technique for Reducing the Penalty of Dynamic Class Loading (2002) 
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.2436
