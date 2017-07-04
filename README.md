@@ -51,8 +51,6 @@ AMD Zen
 AMD’s Epyc is a major advance in security
 https://semiaccurate.com/2017/06/22/amds-epyc-major-advance-security/
 
-
-
 Engineering Process/Management Topics
 ------------------------------
 
@@ -68,3 +66,29 @@ Speculative Optimization
 
 Thin Guards: A Simple and Effective Technique for Reducing the Penalty of Dynamic Class Loading (2002) 
 http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.2436
+
+Fuzzing
+--------
+
+Project Triforce: Run AFL on Everything!
+https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/
+
+OSS-Fuzz: Five months later, and rewarding projects
+https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html
+
+AFL: american fuzzy lop
+http://lcamtuf.coredump.cx/afl/
+(currently the easiest to use high value fuzzer out there)
+
+libFuzzer – a library for coverage-guided fuzz testing
+http://llvm.org/docs/LibFuzzer.html
+(interesting, but little public information about effectiveness)
+
+Incremental Correctness Validation
+-----------------------------------
+RefDiff
+https://github.com/aserg-ufmg/RefDiff/blob/master/README.md
+(tool for reconstructing NFC changes from diffs)
+
+Continuous Verification: A new method to secure programs
+https://medium.com/sourceclear/continuous-verification-a-new-method-to-secure-programs-5aadcb11cd5b
