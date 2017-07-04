@@ -3,6 +3,14 @@ A collection of technical links I want to be easily find again
 
 Performance Tooling and Micro Architecture References
 ------------------------------------------------------
+Agner's "Instruction tables: Lists of instruction latencies, throughputs and micro-operation breakdowns for Intel, AMD and VIA CPUs"
+https://www.agner.org/optimize/instruction_tables.pdf
+
+Agner's "The microarchitecture of Intel, AMD and VIA CPUs: An optimization guide for assembly programmers and compiler makers"
+http://www.agner.org/optimize/microarchitecture.pdf
+
+Intel MPX Explained (with latency numbers)
+https://intel-mpx.github.io/
 
 SSE: mind the gap!  
 https://fgiesen.wordpress.com/2016/04/03/sse-mind-the-gap/  
@@ -16,18 +24,33 @@ pmu-tools
 https://github.com/andikleen/pmu-tools
 Really useful wrapper for perf with symbolic names for Intel hardware events
 
+Intel Core i7 (Nehalem): Architecture By AMD?
+http://www.tomshardware.com/reviews/Intel-i7-nehalem-cpu,2041-11.html
+
+Intel Haswell
+--------------
+
+Intel’s high-performance, low-power secret: the Haswell SoC
+http://arstechnica.com/gadgets/2013/05/a-look-at-haswell/
+
+Intel's Haswell Architecture Analyzed: Building a New PC and a New Intel
+http://www.anandtech.com/show/6355/intels-haswell-architecture/9
+
 PMU: Intel(R) Microarchitecture Code Name Haswell  
 http://www.hpc.ut.ee/dokumendid/ips_xe_2015/vtune_amplifier_xe/documentation/en/help/reference/haswell/index.htm#events/about_front_end_performance_tuning_events.html
 Web version of Haswell performance counter documentation
 
-http://www.tomshardware.com/reviews/Intel-i7-nehalem-cpu,2041-11.html
-
-http://arstechnica.com/gadgets/2013/05/a-look-at-haswell/
-
-http://www.anandtech.com/show/6355/intels-haswell-architecture/9
-
-
+Intel Skylake
+--------------
+The Intel Skylake Mobile and Desktop Launch, with Architecture Analysis
 http://www.anandtech.com/show/9582/intel-skylake-mobile-desktop-launch-architecture-analysis/5
+
+AMD Zen
+-------
+
+AMD’s Epyc is a major advance in security
+https://semiaccurate.com/2017/06/22/amds-epyc-major-advance-security/
+
 
 
 Engineering Process/Management Topics
