@@ -1,5 +1,5 @@
 # technical-links
-A collection of technical links I want to be easily find again
+A collection of technical links I want to be able to easily find again
 
 Performance Tooling and Micro Architecture References
 ------------------------------------------------------
