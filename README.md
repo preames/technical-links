@@ -24,6 +24,9 @@ pmu-tools
 https://github.com/andikleen/pmu-tools
 Really useful wrapper for perf with symbolic names for Intel hardware events
 
+This is not the performance you were looking for: the tricks systems play on us
+https://blogs.janestreet.com/this-is-not-the-performance-you-were-looking-for-the-tricks-systems-play-on-us/
+
 Intel Core i7 (Nehalem): Architecture By AMD?
 http://www.tomshardware.com/reviews/Intel-i7-nehalem-cpu,2041-11.html
 
@@ -61,6 +64,16 @@ http://blog.hut8labs.com/speeding-up-your-eng-org-part-i.html
 Applying the Universal Scalability Law to organisations
 http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/
 
+Getting beyond MVP
+paper writeup via the morning paper
+https://blog.acolyer.org/2016/11/01/getting-beyond-mvp/amp/
+
+You Are Not Google
+https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb
+
+Why vacation at tech companies should be mandatory: better code, happier people 
+https://text.sourcegraph.com/why-vacation-at-tech-companies-should-be-mandatory-better-code-happier-people-d1b549681291#.87dxh09de
+
 Speculative Optimization
 -------------------------
 
@@ -69,7 +82,6 @@ http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.2436
 
 Fuzzing
 --------
-
 Project Triforce: Run AFL on Everything!
 https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/
 
@@ -84,6 +96,22 @@ libFuzzer – a library for coverage-guided fuzz testing
 http://llvm.org/docs/LibFuzzer.html
 (interesting, but little public information about effectiveness)
 
+Design for Test
+---------------------------
+Burning in a Module with Random Unit Testing
+https://blog.regehr.org/archives/737
+
+Software Testing Using Function/Inverse Pairs
+https://blog.regehr.org/archives/708
+
+Static Analysis & Whole Program Verification
+---------------
+PVS-Studio Open Source Results
+http://www.viva64.com/en/a/0084/
+
+SPIN
+http://spinroot.com/spin/whatispin.html
+
 Incremental Correctness Validation
 -----------------------------------
 RefDiff
@@ -92,3 +120,11 @@ https://github.com/aserg-ufmg/RefDiff/blob/master/README.md
 
 Continuous Verification: A new method to secure programs
 https://medium.com/sourceclear/continuous-verification-a-new-method-to-secure-programs-5aadcb11cd5b
+
+Assorted Compiler/Runtime Topics
+---------------------------------
+Leaning Technologies Blog: Announcing CheerpJ, a Java compiler for Web applications
+http://blog.leaningtech.com/2017/06/announcing-cheerpj-java-compiler-for-webapps.html?m=1
+
+CFI directives in assembly files
+http://www.imperialviolet.org/2017/01/18/cfi.html
