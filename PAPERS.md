@@ -1,5 +1,5 @@
 # Paper List
-This is a simple list of papers I've found interesting over time and want to be able to find again.  This used to be a pile on my desk, but I'd really like to reclaim that space.  :)
+This is a simple list of papers I've found interesting over time and want to be able to find again.  This used to be a pile on my desk, but I'd really like to reclaim that space.  :)  
 
 ## Graal
 
@@ -42,3 +42,19 @@ Together, these two provide the best public description of the Azul C4 collector
 * Maged M. Michael. 2004. Hazard Pointers: Safe Memory Reclamation for Lock-Free Objects. IEEE Trans. Parallel Distrib. Syst. 15, 6 (June 2004), 491-504. DOI=http://dx.doi.org/10.1109/TPDS.2004.8
 
    Classic paper on a key technique for concurrent data structure design.  Also applicable to general memory management & garbage collectors.  Simple, elegant, and powerful.
+   
+* Iavor S. Diatchki, Mark P. Jones, and Rebekah Leslie. 2005. High-level views on low-level representations. In Proceedings of the tenth ACM SIGPLAN international conference on Functional programming (ICFP '05). ACM, New York, NY, USA, 168-179. DOI=http://dx.doi.org/10.1145/1086365.1086387 
+
+* Jonathan Pincus and Brandon Baker. 2004. Beyond Stack Smashing: Recent Advances in Exploiting Buffer Overruns. IEEE Security and Privacy 2, 4 (July 2004), 20-27. DOI=http://dx.doi.org/10.1109/MSP.2004.36 
+
+* Björn Hartmann, Daniel MacDougall, Joel Brandt, and Scott R. Klemmer. 2010. What would other programmers do: suggesting solutions to error messages. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '10). ACM, New York, NY, USA, 1019-1028. DOI: https://doi.org/10.1145/1753326.1753478 
+
+* Mendel Rosenblum and John K. Ousterhout. 1992. The design and implementation of a log-structured file system. ACM Trans. Comput. Syst. 10, 1 (February 1992), 26-52. DOI=http://dx.doi.org/10.1145/146941.146943 
+
+*  Cristian Cadar, Daniel Dunbar, and Dawson Engler. 2008. KLEE: unassisted and automatic generation of high-coverage tests for complex systems programs. In Proceedings of the 8th USENIX conference on Operating systems design and implementation (OSDI'08). USENIX Association, Berkeley, CA, USA, 209-224. 
+
+* Leo A. Meyerovich and Ariel S. Rabkin. 2012. Socio-PLT: principles for programming language adoption. In Proceedings of the ACM international symposium on New ideas, new paradigms, and reflections on programming and software (Onward! 2012). ACM, New York, NY, USA, 39-54. DOI=http://dx.doi.org/10.1145/2384592.2384597 
+
+* Manuel Fähndrich, Michael Barnett, and Francesco Logozzo. 2010. Embedded contract languages. In Proceedings of the 2010 ACM Symposium on Applied Computing (SAC '10). ACM, New York, NY, USA, 2103-2110. DOI=http://dx.doi.org/10.1145/1774088.1774531 
+
+* Lijuan Luo, Martin Wong, and Wen-mei Hwu. 2010. An effective GPU implementation of breadth-first search. In Proceedings of the 47th Design Automation Conference (DAC '10). ACM, New York, NY, USA, 52-55. DOI=http://dx.doi.org/10.1145/1837274.1837289 
