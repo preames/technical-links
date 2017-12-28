@@ -58,3 +58,19 @@ Together, these two provide the best public description of the Azul C4 collector
 * Manuel Fähndrich, Michael Barnett, and Francesco Logozzo. 2010. Embedded contract languages. In Proceedings of the 2010 ACM Symposium on Applied Computing (SAC '10). ACM, New York, NY, USA, 2103-2110. DOI=http://dx.doi.org/10.1145/1774088.1774531 
 
 * Lijuan Luo, Martin Wong, and Wen-mei Hwu. 2010. An effective GPU implementation of breadth-first search. In Proceedings of the 47th Design Automation Conference (DAC '10). ACM, New York, NY, USA, 52-55. DOI=http://dx.doi.org/10.1145/1837274.1837289 
+
+*  Zachary Anderson, David Gay, Rob Ennals, and Eric Brewer. 2008. SharC: checking data sharing strategies for multithreaded c. In Proceedings of the 29th ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI '08). ACM, New York, NY, USA, 149-158. DOI=http://dx.doi.org/10.1145/1375581.1375600 
+
+   Very different take on language design for concurrency.  In modern terms, I'd describe this as an attempt at a gradual hybrid type system for concurrency.  
+
+*  Thomas Ball, Vladimir Levin, and Sriram K. Rajamani. 2011. A decade of software model checking with SLAM. Commun. ACM 54, 7 (July 2011), 68-76. DOI: https://doi.org/10.1145/1965724.1965743 
+
+*  Andrew W. Appel. 1987. Garbage collection can be faster than stack allocation. Inf. Process. Lett. 25, 4 (June 1987), 275-279. DOI=10.1016/0020-0190(87)90175-X http://dx.doi.org/10.1016/0020-0190(87)90175-X 
+
+   If you do anything involving allocator or GC design, read and understand the point made in this paper.  It's a really fundemental observation and argument in favor of GC.
+
+*  Jacob Burnim and Koushik Sen. 2009. Asserting and checking determinism for multithreaded programs. In Proceedings of the the 7th joint meeting of the European software engineering conference and the ACM SIGSOFT symposium on The foundations of software engineering (ESEC/FSE '09). ACM, New York, NY, USA, 3-12. DOI=http://dx.doi.org/10.1145/1595696.1595700 
+
+   Beyond the actual mechanisms in the paper, the pre-post concurrency reasoning in this paper is a really useful way of *thinking* a about concurrent data structure and algorithm design.  
+
+
