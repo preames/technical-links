@@ -128,3 +128,9 @@ http://blog.leaningtech.com/2017/06/announcing-cheerpj-java-compiler-for-webapps
 
 CFI directives in assembly files
 http://www.imperialviolet.org/2017/01/18/cfi.html
+
+Interesting C++ Library Collections
+------------------------------------
+
+Introducing Abseil, a new common libraries project
+http://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html
