@@ -9,6 +9,8 @@ This is a simple list of papers I've found interesting over time and want to be 
 
 * Gilles Duboscq, Thomas Würthinger, Lukas Stadler, Christian Wimmer, Doug Simon, and Hanspeter Mössenböck. 2013. An intermediate representation for speculative optimizations in a dynamic compiler. In Proceedings of the 7th ACM workshop on Virtual machines and intermediate languages (VMIL '13). ACM, New York, NY, USA, 1-10. DOI: http://dx.doi.org/10.1145/2542142.2542143
 
+* Aleksandar Prokopec, Gilles Duboscq, David Leopoldseder, Thomas Würthinger. An Optimization-Driven Incremental InlineSubstitution Algorithm for Just-in-Time Compilers
+
 ## Escape Analysis (extreme forms) 
 
 General problem with these techniques is that they work well for generally short lived objects, and not long lived ones.  A generational GC also does very well on short lived objects, so benefit is hard to achieve.  Mostly useful when viewed as a compiler optimization to reduce malloc traffic for unmanaged languages..
