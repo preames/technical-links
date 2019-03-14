@@ -9,7 +9,7 @@ This is a simple list of papers I've found interesting over time and want to be 
 
 * Gilles Duboscq, Thomas Würthinger, Lukas Stadler, Christian Wimmer, Doug Simon, and Hanspeter Mössenböck. 2013. An intermediate representation for speculative optimizations in a dynamic compiler. In Proceedings of the 7th ACM workshop on Virtual machines and intermediate languages (VMIL '13). ACM, New York, NY, USA, 1-10. DOI: http://dx.doi.org/10.1145/2542142.2542143
 
-* Aleksandar Prokopec, Gilles Duboscq, David Leopoldseder, Thomas Würthinger. An Optimization-Driven Incremental InlineSubstitution Algorithm for Just-in-Time Compilers
+* Aleksandar Prokopec, Gilles Duboscq, David Leopoldseder, and Thomas Würthinger. 2019. An optimization-driven incremental inline substitution algorithm for just-in-time compilers. In Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO 2019). IEEE Press, Piscataway, NJ, USA, 164-179. https://dl.acm.org/citation.cfm?id=3314893
 
 ## Escape Analysis (extreme forms) 
 
