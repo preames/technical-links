@@ -27,6 +27,10 @@ Really useful wrapper for perf with symbolic names for Intel hardware events
 This is not the performance you were looking for: the tricks systems play on us
 https://blogs.janestreet.com/this-is-not-the-performance-you-were-looking-for-the-tricks-systems-play-on-us/
 
+Gathering Intel on Intel AVX-512 Transitions
+https://travisdowns.github.io/blog/2020/01/17/avxfreq1.html
+Exhaustive study of AVX-512 switching costs.  By far best resource I've found to date.
+
 Intel Core i7 (Nehalem): Architecture By AMD?
 http://www.tomshardware.com/reviews/Intel-i7-nehalem-cpu,2041-11.html
 
