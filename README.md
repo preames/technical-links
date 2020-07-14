@@ -138,3 +138,9 @@ Interesting C++ Library Collections
 
 Introducing Abseil, a new common libraries project
 http://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html
+
+Reduction to SAT/SMT
+---------------------
+
+SAT/SMT By Example
+https://yurichev.com/writings/SAT_SMT_by_example.pdf
