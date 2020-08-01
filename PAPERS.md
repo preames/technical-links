@@ -91,7 +91,11 @@ Together, these two provide the best public description of the Azul C4 collector
 
 * Jeremy Condit, Matthew Harren, Zachary Anderson, David Gay, and George C. Necula. 2007. Dependent types for low-level programming. In Proceedings of the 16th European Symposium on Programming (ESOP’07)
 
-Non Computer Science
+* Ross J. Anderson. 1994. Why cryptosystems fail. Commun. ACM 37, 11 (Nov. 1994)
+
+  If you do any form of systems work, and you haven't read this classic paper, stop what you're doing and go read it.  The story is told through a lense of security and crpto, but the leasons are much broader.
+  
+## Non Computer Science
 ---------------------
 
 * Kumar, Deepak & Choi, Se Hoon & Washicosky, Kevin & Eimer, William & Tucker, Stephanie & Ghofrani, Jessica & Lefkowitz, Aaron & Mccoll, Gawain & Goldstein, Lee & Tanzi, Rudolph & Moir, Robert. (2016). Amyloid- peptide protects against microbial infection in mouse and worm models of Alzheimers disease. Science Translational Medicine. 8.
