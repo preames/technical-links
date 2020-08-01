@@ -75,4 +75,24 @@ Together, these two provide the best public description of the Azul C4 collector
 
    Beyond the actual mechanisms in the paper, the pre-post concurrency reasoning in this paper is a really useful way of *thinking* a about concurrent data structure and algorithm design.  
 
+*  Anil Madhavapeddy, Alex  Ho, Tim  Deegan, David J Scott, Ripduman S Sohan.  2007. Melange: creating a "functional" internet.
+
+* Rafkind, Jon & Wick, Adam & Regehr, John & Flatt, Matthew. (2009). Precise Garbage Collection for C. International Symposium on Memory Management, ISMM.
+
+* Jason Ansel, Yee Lok Wong, Cy Chan, Marek Olszewski, Alan Edelman, and Saman Amarasinghe. 2011. Language and compiler support for auto-tuning variable-accuracy algorithms. International Symposium on Code Generation and Optimization (CGO ’11)
+
+* Barabash, Katherine & Petrank, Erez. (2010). Tracing Garbage Collection on Highly Parallel Platforms. ACM SIGPLAN Notices. 45.
+
+* Ross Tate, Michael Stepp, Zachary Tatlock, and Sorin Lerner. 2009. Equality saturation: a new approach to optimization. Principles of programming languages (POPL ’09). 
+
+* Tarun Prabhu, Shreyas Ramalingam, Matthew Might, and Mary Hall. 2011. EigenCFA: accelerating flow analysis with GPUs. SIGPLAN Not. 46, 1 (January 2011),
+
+* Morandat, Floréal & Hill, Brandon & Osvald, Leo & Vitek, Jan. (2012). Evaluating the Design of the R Language. 
+
+* Jeremy Condit, Matthew Harren, Zachary Anderson, David Gay, and George C. Necula. 2007. Dependent types for low-level programming. In Proceedings of the 16th European Symposium on Programming (ESOP’07)
+
+Non Computer Science
+---------------------
+
+* Kumar, Deepak & Choi, Se Hoon & Washicosky, Kevin & Eimer, William & Tucker, Stephanie & Ghofrani, Jessica & Lefkowitz, Aaron & Mccoll, Gawain & Goldstein, Lee & Tanzi, Rudolph & Moir, Robert. (2016). Amyloid- peptide protects against microbial infection in mouse and worm models of Alzheimers disease. Science Translational Medicine. 8.
 
