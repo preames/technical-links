@@ -95,6 +95,14 @@ Together, these two provide the best public description of the Azul C4 collector
 
   If you do any form of systems work, and you haven't read this classic paper, stop what you're doing and go read it.  The story is told through a lense of security and crpto, but the leasons are much broader.
   
+* utler W. Lampson and David D. Redell. 1980. Experience with processes and monitors in Mesa. Commun. ACM 23, 2 (Feb. 1980)
+
+  Classic systems paper describing operation experience with monitors, notify, and condition variables patterns.  Still very relevant today as these remain common coordination idioms to this day.
+  
+* Jacob Burnim, Tayfun Elmas, George Necula, and Koushik Sen. 2011. NDSeq: runtime checking for nondeterministic sequential specifications of parallel correctness. In Proceedings of the 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI ’11)
+
+  Basic idea is to explicitly represent the nondeterminism implicit in a parallel program into the serial semantics of the program, and then focus on proving equivelence thereof.  Figuring out whether a particular reordering is legal is one of the hardest parts of proving parallel correctness.  This paper uses a minor syntax extension to separate the proof burden into two (much) easier sub-parts.  To me, this seems like obviously the right approach, and I'm suprised this hasn't been much more widely adopted.
+  
 ## Non Computer Science
 ---------------------
 
