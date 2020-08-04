@@ -113,7 +113,13 @@ Together, these two provide the best public description of the Azul C4 collector
 
    Main reason to read is a really nicely written summary of related work in the field, and good discussion of where region inference struggles.  The technique described isn't as memorable.  
    
-   
+* Dean, Jeffrey & Chambers, Craig. (1994). Towards Better Inlining Decisions Using Inlining Trials. ACM SIGPLAN Lisp Pointers. 10.1145/182409.182489. 
+
+  Basic idea is to memoize inlining decisions by actually performing the inlining and scoring the result.  Claims minor performance wins, reduced compile times, and less sensativity to inlining thersholds.  Key detail is in the synthesis of the matching procedure which enables reuse of the original decision.  Reading it with a modern eye, there looks to be lots of room for generalizing the match procedure using program synthesis techniques.  
+  
+* Stephen M. Blackburn, Sergey I. Salishev, Mikhail Danilov, Oleg A. Mokhovikov, Anton A. Nashatyrev, Peter A. Novodvorsky, Vadim I. Bogdanov, Xiao Feng Li, Dennis Ushako. The Moxie JVM Experience.  TR-CS-08-01, Austrailian National University.  (Apparently also published in VEE'08, not sure it's the exact same version.)
+
+  Fairly settled material in terms of "modern" VM design these days, but given it was written a decade ago, that's somewhat impressive.  Worth a read just for framing and related work description.
   
 ## Non Computer Science
 ---------------------
