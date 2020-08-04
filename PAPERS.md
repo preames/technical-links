@@ -103,6 +103,18 @@ Together, these two provide the best public description of the Azul C4 collector
 
   Basic idea is to explicitly represent the nondeterminism implicit in a parallel program into the serial semantics of the program, and then focus on proving equivelence thereof.  Figuring out whether a particular reordering is legal is one of the hardest parts of proving parallel correctness.  This paper uses a minor syntax extension to separate the proof burden into two (much) easier sub-parts.  To me, this seems like obviously the right approach, and I'm suprised this hasn't been much more widely adopted.
   
+* Bird, Christian & Nagappan, Nachiappan & Devanbu, Premkumar & Gall, Harald & Murphy, Brendan. (2009). Does distributed development affect software quality?. Communications of the ACM. 52. 10.1145/1536616.1536639. 
+
+  Found that distributed teams did not effect software quality.  Did observe a ~6% dropoff when moving to more than one building, but little beyond that.
+  
+* Jonathan Ragan-Kelley, Andrew Adams, Sylvain Paris, Marc Levoy, Saman Amarasinghe, and Frédo Durand. 2012. Decoupling algorithms from schedules for easy optimization of image processing pipelines. ACM Trans. Graph. 31, 4, Article 32 (July 2012), 
+
+* Dinakar Dhurjati, Sumant Kowshik, Vikram Adve, and Chris Lattner. 2003. Memory safety without runtime checks or garbage collection. In Proceedings of the 2003 ACM SIGPLAN conference on Language, compiler, and tool for embedded systems (LCTES ’03)
+
+   Main reason to read is a really nicely written summary of related work in the field, and good discussion of where region inference struggles.  The technique described isn't as memorable.  
+   
+   
+  
 ## Non Computer Science
 ---------------------
 
