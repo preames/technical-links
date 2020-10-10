@@ -34,6 +34,9 @@ Exhaustive study of AVX-512 switching costs.  By far best resource I've found to
 Intel Core i7 (Nehalem): Architecture By AMD?
 http://www.tomshardware.com/reviews/Intel-i7-nehalem-cpu,2041-11.html
 
+GCC's assembler syntax
+https://www.felixcloutier.com/documents/gcc-asm.html#constraints
+
 Intel Haswell
 --------------
 
