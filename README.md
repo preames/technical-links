@@ -142,8 +142,11 @@ Interesting C++ Library Collections
 Introducing Abseil, a new common libraries project
 http://opensource.googleblog.com/2017/09/introducing-abseil-new-common-libraries.html
 
-Reduction to SAT/SMT
+Assorted Verification
 ---------------------
 
 SAT/SMT By Example
 https://yurichev.com/writings/SAT_SMT_by_example.pdf
+
+Using TLA+ in the Real World to Understand a Glibc Bug
+https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/
