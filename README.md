@@ -150,3 +150,9 @@ https://yurichev.com/writings/SAT_SMT_by_example.pdf
 
 Using TLA+ in the Real World to Understand a Glibc Bug
 https://probablydance.com/2020/10/31/using-tla-in-the-real-world-to-understand-a-glibc-bug/
+
+Assorted
+---------
+
+Finding Critical Open Source Projects
+https://opensource.googleblog.com/2020/12/finding-critical-open-source-projects.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOpenSourceBlog+%28Google+Open+Source+Blog%29
