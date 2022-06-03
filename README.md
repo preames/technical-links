@@ -61,6 +61,12 @@ AMD Zen
 AMD’s Epyc is a major advance in security
 https://semiaccurate.com/2017/06/22/amds-epyc-major-advance-security/
 
+Amazon Graviton
+---------------
+
+Graviton 3: First Impressions
+https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/
+
 Engineering Process/Management Topics
 ------------------------------
 
