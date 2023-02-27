@@ -67,6 +67,10 @@ Amazon Graviton
 Graviton 3: First Impressions
 https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/
 
+Loongarch's Vector Arch
+https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/
+
+
 Engineering Process/Management Topics
 ------------------------------
 
