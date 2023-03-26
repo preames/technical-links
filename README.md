@@ -1,6 +1,9 @@
 # technical-links
 A collection of technical links I want to be able to easily find again
 
+List of companies with at least some form of compiler role
+https://mgaudet.github.io/CompilerJobs/
+
 Performance Tooling and Micro Architecture References
 ------------------------------------------------------
 Agner's "Instruction tables: Lists of instruction latencies, throughputs and micro-operation breakdowns for Intel, AMD and VIA CPUs"
