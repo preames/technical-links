@@ -70,6 +70,9 @@ AArch64
 Graviton 3: First Impressions
 https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/
 
+CPUFun's NVidia® "Grace" 72 Core Processor Cache Micro-Benchmarks
+https://cpufun.substack.com/p/amd-epyc-7742-64-core-processor-cache
+
 Loonarch
 --------
 
