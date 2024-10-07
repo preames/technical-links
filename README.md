@@ -58,6 +58,12 @@ Intel Skylake
 The Intel Skylake Mobile and Desktop Launch, with Architecture Analysis
 http://www.anandtech.com/show/9582/intel-skylake-mobile-desktop-launch-architecture-analysis/5
 
+Intel Other
+-----------
+
+Skymont: Intel’s E-Cores reach for the Sky
+https://chipsandcheese.com/2024/10/03/skymont-intels-e-cores-reach-for-the-sky/
+
 AMD Zen
 -------
 
