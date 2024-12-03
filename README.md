@@ -85,6 +85,7 @@ Loonarch
 Loongarch's Vector Arch
 https://chipsandcheese.com/2023/02/26/loongsons-lsx-and-lasx-vector-extensions/
 
+https://chipsandcheese.com/p/running-spec-cpu2017-on-chinese-cpus
 
 Engineering Process/Management Topics
 ------------------------------
