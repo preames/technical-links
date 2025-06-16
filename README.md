@@ -188,3 +188,9 @@ Assorted
 
 Finding Critical Open Source Projects
 https://opensource.googleblog.com/2020/12/finding-critical-open-source-projects.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GoogleOpenSourceBlog+%28Google+Open+Source+Blog%29
+
+[RFC] Assembly Super Optimiser (Scheduling only)
+https://discourse.llvm.org/t/rfc-assembly-super-optimiser/71365/16
+
+SLOTHY: Assembly optimization via constraint solving
+https://github.com/slothy-optimizer/slothy
